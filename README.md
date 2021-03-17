@@ -20,3 +20,8 @@ Todo -
 - Publish a package
 - Add more sites
 - Add more features (currently; only **to direct link** feature)
+
+Known Supported Formats:
+- Google Docs - doc,pdf
+- Google Slide - pdf,pptx
+- Google Sheet - xlsx,pdf,csv
