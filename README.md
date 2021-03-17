@@ -1,5 +1,8 @@
 # Drive-URL-Decoder
 
+[![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/)
+
+
 Simple module to get direct download Link for all well known Cloud storages at one place.
 
 Sample Usage:
@@ -26,4 +29,3 @@ Known Supported Formats:
 - Google Slide - pdf,pptx
 - Google Sheet - xlsx,pdf,csv
 
-License : [![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/)
