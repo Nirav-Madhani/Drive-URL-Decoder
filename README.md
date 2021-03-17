@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
-Simple module to get direct download Link for all well known Cloud storages at one place.
+A simple module to get direct download Link for all well-known Cloud storages in one place.
 
 Sample Usage:
 ```
